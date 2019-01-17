@@ -5,4 +5,3 @@
   include 'sections/signup.php';
   include 'sections/contact.php';
 ?>
-
